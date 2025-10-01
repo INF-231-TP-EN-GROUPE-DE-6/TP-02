@@ -4,6 +4,7 @@ Ce projet contient diverses implémentations de listes chaînées en langage C, 
 
 ## Structure du Projet
 
+```
 INF-231-DEVOIR-2/
         │
         ├── src/
@@ -15,6 +16,7 @@ INF-231-DEVOIR-2/
         │   └── nsertion_tête_queue_liste_simplement_chaîne_circulaire.c # Insertion en tête et en queue dans une liste simplement chaînée circulaire (nom probablement erroné)
         │
         └── README.md                                                    # Ce fichier
+```
 
 ## Fichiers
 
