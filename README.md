@@ -4,15 +4,26 @@ Ce projet contient diverses implémentations de listes chaînées en langage C, 
 
 ## Structure du Projet
 
-
+INF-231-DEVOIR-2/
+        │
+        ├── src/
+        │   ├── insertion_2chaine_circulaire.c                          # Insertion en tête et en queue dans une liste doublement chaînée circulaire
+        │   ├── Insertion_liste_doublement_chaîne_trié.c                # Insertion dans une liste doublement chaînée triée
+        │   ├── insertion_liste_trié.c                                  # Insertion dans une liste triée
+        │   ├── insertion_tête_queue_liste_simplement_chaîne_circulaire.c # Insertion en tête et en queue dans une liste simplement chaînée circulaire
+        │   ├── lire_supprimes.c                                        # Lecture et suppressions dans une liste
+        │   └── nsertion_tête_queue_liste_simplement_chaîne_circulaire.c # Insertion en tête et en queue dans une liste simplement chaînée circulaire (nom probablement erroné)
+        │
+        └── README.md                                                    # Ce fichier
 
 ## Fichiers
 
+- `insertion_2chaine_circulaire.c` : Insertion en tête et en queue dans une liste doublement chaînée circulaire.
 - `Insertion_liste_doublement_chaîne_trié.c` : Insertion dans une liste doublement chaînée triée.
 - `insertion_liste_trié.c` : Insertion dans une liste triée.
 - `insertion_tête_queue_liste_simplement_chaîne_circulaire.c` : Insertion en tête et en queue dans une liste simplement chaînée circulaire.
 - `lire_supprimes.c` : Lecture et suppressions dans une liste.
-- `nsertion_tête_queue_liste_simplement_chaîne_circulaire.c` : (Note : nom probablement erroné, voir le fichier précédent) Insertion en tête et en queue dans une liste simplement chaînée circulaire.
+- `nsertion_tête_queue_liste_simplement_chaîne_circulaire.c` : Insertion en tête et en queue dans une liste simplement chaînée circulaire (nom probablement erroné).
 
 ## Compilation et Exécution
 
